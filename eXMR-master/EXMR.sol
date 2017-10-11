@@ -207,15 +207,15 @@ contract MintableToken is StandardToken, Ownable {
   }
 }
 
-contract EXMRO is MintableToken {
-  string public constant name = "eXMR";
-  string public constant symbol = "EXMRO";
-  uint   public constant decimals = 8;
+contract EXMR is MintableToken {
+  string public constant name = "EXMR";
+  string public constant symbol = "eXMR";
+  uint   public constant decimals = 18;
   uint   public unlockTimeStamp = 0;  
 
   mapping (address => bool) private _lockByPass;
   
-  function EXMRO(uint unlockTs){
+  function EXMR(uint unlockTs){
     setUnlockTimeStamp(unlockTs);
   }
 
