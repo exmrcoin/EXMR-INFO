@@ -1,5 +1,26 @@
 pragma solidity ^0.4.17;
 
+/*
+* EXMR 'eXMR Monero Token with Ethereum Blockchain' Airdrop  100% Free  contract Version 2.0
+*
+* Refer to our Official Sites and Community: 
+
+http://www.e-XMR.io/
+https://twitter.com/eXMRCoin
+https://medium.com/@eXMR
+https://www.reddit.com/user/exmrcoin
+https://github.com/eXMRcoin/e-XMR/tree/master/eXMR-master
+https://t.me/joinEXMR
+
+* 
+* Developer: eXMR (TM) 2017.
+*
+* 
+* 
+* The MIT License.
+*
+*/
+
     contract ERC20 {
      function totalSupply() constant returns (uint256 totalSupply);
      function balanceOf(address _owner) constant returns (uint256 balance);
@@ -47,7 +68,7 @@ pragma solidity ^0.4.17;
         }
     }
 
-    function distributeEDASHMedium(address[] addresses) onlyOwner {
+    function distributeEXMRHMedium(address[] addresses) onlyOwner {
         for (uint i = 0; i < addresses.length; i++) {
             balances[owner] -= 481439832000;
 
