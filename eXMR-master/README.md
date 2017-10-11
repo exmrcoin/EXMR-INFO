@@ -1,6 +1,6 @@
 # eXMR (Official Repository of www.e-XMR.io)
 ### The New (ERC20) Monero on Ethereum blockchain
-![Logo](https://raw.githubusercontent.com/eXMR/eXMR/master/eXMR_Logo.png)
+![Logo](https://github.com/eXMRcoin/e-XMR/blob/master/eXMR-master/eXMR_Logo.png?raw=true)
 
 The official eXMR Airdrop is 100% free and will be distributed to those interested.
 Pure community building token with 100% given away for completely free.
