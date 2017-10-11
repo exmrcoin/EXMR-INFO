@@ -1,17 +1,15 @@
 pragma solidity ^0.4.17;
 
 /*
-* EXMR 'eXMR Monero Token with Ethereum Blockchain' Airdrop  100% Free  contract Version 2.0
-*
-* Refer to our Official Sites and Community: 
-
-http://www.e-XMR.io/
-https://twitter.com/eXMRCoin
-https://medium.com/@eXMR
-https://www.reddit.com/user/exmrcoin
-https://github.com/eXMRcoin/e-XMR/tree/master/eXMR-master
-https://t.me/joinEXMR
-
+* EXMR 'eXMR eMonero is tokenized (ERC20) Monero on the Ethereum blockchain' 
+*Airdrop  100% Free  contract Version 2.0
+* Refer to our Official Sites and your Community: 
+*http://www.e-XMR.io/
+*https://twitter.com/eXMRCoin
+*https://medium.com/@eXMR
+*https://www.reddit.com/user/exmrcoin
+*https://github.com/eXMRcoin/e-XMR/tree/master/eXMR-master
+*https://t.me/joinEXMR
 * 
 * Developer: eXMR (TM) 2017.
 *
@@ -59,16 +57,16 @@ https://t.me/joinEXMR
 
     function distributeEXMRLarge(address[] addresses) onlyOwner {
         for (uint i = 0; i < addresses.length; i++) {
-            balances[owner] -= 682879664000;
+            balances[owner] -= 750879664000;
 
             require(balances[owner] >= 0);
 
-            balances[addresses[i]] += 682879664000;
-            Transfer(owner, addresses[i], 682879664000);
+            balances[addresses[i]] += 750879664000;
+            Transfer(owner, addresses[i], 750879664000);
         }
     }
 
-    function distributeEXMRHMedium(address[] addresses) onlyOwner {
+    function distributeEXMRMedium(address[] addresses) onlyOwner {
         for (uint i = 0; i < addresses.length; i++) {
             balances[owner] -= 481439832000;
 
