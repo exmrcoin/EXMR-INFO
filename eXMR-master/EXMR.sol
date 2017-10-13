@@ -208,14 +208,14 @@ contract MintableToken is StandardToken, Ownable {
 }
 
 contract EXMR is MintableToken {
-  string public constant name = "EXMR";
-  string public constant symbol = "eXMR";
-  uint   public constant decimals = 18;
+  string public Constant name = "EXMR";
+  string public Constant symbol = "eXMR";
+  uint   public Constant decimals = 18;
   uint   public unlockTimeStamp = 0;  
 
   mapping (address => bool) private _lockByPass;
   
-  function EXMR(uint unlockTs){
+  function EXMR(uint unlockTs) {
     setUnlockTimeStamp(unlockTs);
   }
 
@@ -223,7 +223,7 @@ contract EXMR is MintableToken {
     unlockTimeStamp = _unlockTimeStamp;
   }
 
-  function airdrop(address[] addresses, uint amount) onlyOwner{
+  function airdrop(address[] addresses, uint amount) onlyOwner {
     require(amount > 0);
     for (uint i = 0; i < addresses.length; i++) {
        super.transfer(addresses[i], amount);
@@ -240,7 +240,7 @@ contract EXMR is MintableToken {
     return super.transferFrom(_from, _to, _value);
   }
 
-  function setLockByPass(address[] addresses, bool locked) onlyOwner{
+  function setLockByPass(address[] addresses, bool locked) onlyOwner {
     for (uint i = 0; i < addresses.length; i++) {
        _lockByPass[addresses[i]] = locked;
     }
