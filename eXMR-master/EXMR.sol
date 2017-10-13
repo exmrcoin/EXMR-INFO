@@ -8,7 +8,7 @@ pragma solidity ^0.4.17;
 *https://medium.com/@eXMR
 *https://github.com/eXMRcoin/e-XMR/tree/master/eXMR-master
 *
-*We are looking for Moderator for Telegram, Slack, Reddit and Discord
+*We are looking for Moderator: Telegram, Slack, Reddit and Discord
 *https://t.me/joinEXMR 
 *exmr-workspace.slack.com
 *Discord Channel
@@ -145,13 +145,13 @@ contract StandardToken is ERC20, BasicToken {
 
 }
 
-contract eXMRO is StandardToken, Ownable {
-  string public constant name = "eXMR";
-  string public constant symbol = "eXMRO";
+contract EXMR is StandardToken, Ownable {
+  string public constant name = "EXMR";
+  string public constant symbol = "EXMR";
   uint8 public constant decimals = 8;
   uint256 public constant INITIAL_SUPPLY = 15 * 10**6 * 10**8;
 
-  function eXMRO() public {
+  function EXMR() public {
     totalSupply = INITIAL_SUPPLY;
     balances[msg.sender] = INITIAL_SUPPLY;
   }
