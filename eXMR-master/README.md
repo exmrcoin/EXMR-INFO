@@ -5,12 +5,12 @@
 The official eXMR Monero will have a fixed supply of 15 million tokens, and it is divisible to 8 decimal places,and you’ll be able to send and receive them just like you can with any other ERC20 Token inside of Ethereum Blockchain.
 
 ---
-eXMR Monero first was bounty and will be distributed to those interested.
-pure community building token with 25% given away for tasks performed.
+eXMR Monero first was bounty and will be distributed to those interested. Pure community building token with 25% given away for tasks performed.
 
-The future of EXMR:
-1) EXMR will have a payment gateway together with its own Wallet, this means that most online stores will be able to accept EXMR as a payment method, only by creating an html code and sticking it on your website this is in the process of construction .. 
-2) EXMR plans to partner with reputable companies so that they add EXMR as part of their platform example pages of games, online casinos, gamblin etc ... 
+The future of eXMR Monero:
+1) eXMR will have a payment gateway together with its own Wallet, this means that most online stores will be able to accept EXMR and other tokens and coins as a payment method, only by creating an widget; html code and sticking it on their website. We are in the process of development, our projection is to finalize the project in 8 months.
+
+2) eXMR plans to partner with the following platforms Shapeshift, Changelly and online games, to integrate our platform,, etc ...
 3) By 2019 and EXMR will be self-sustainable and will grow on its own.
 
 
