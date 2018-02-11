@@ -1,9 +1,9 @@
 pragma solidity ^0.4.17;
 
 /* EXMR 'eXMR eMonero is tokenized (ERC20) Monero on the Ethereum blockchain' contract Version 2.0
-*Airdrop 100% Free for different tasks and support
+*Bounty 30% Free for different tasks and support
 *Refer to our Official Sites and your Community: 
-*http://www.e-XMR.io/
+*https://exmr.io/
 *https://twitter.com/eXMRCoin
 *https://medium.com/@eXMR
 *https://github.com/eXMRcoin/e-XMR/tree/master/eXMR-master
