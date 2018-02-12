@@ -1,0 +1,142 @@
+/*shobhit*/
+
+@font-face {
+    font-family: 'MarcellusSC-Regular';
+    src:    url('../fonts/Marcellus_SC/MarcellusSC-Regular.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/*header section*/
+/*header{
+    background: url('../img/slider_image.png') top center no-repeat;
+    width: 100%;
+    background-size: cover;
+    height: 600px;
+}*/
+body{font-family: 'MarcellusSC-Regular', serif;margin: 0;}
+
+section{
+    float: left;
+    width: 100%;
+}
+a {
+    color: #fff;
+    text-decoration: none;
+}
+a:hover {
+    color: #f08919;
+    text-decoration: none;
+}
+p{
+    text-align: justify;
+}
+
+
+/*1 section*/
+.navbar-nav>li>a:hover{
+    background-color: transparent;
+}
+.home_bgslider{
+    background-image: url("../img/home_bgslider.png");
+    width: 100%;
+    background-size: cover;
+    background-position: 100%;
+    padding: 20% 0 20% 0;
+    color: #fff;
+}
+.home_bgslider h1{
+    font-size: 50px;
+}
+.button-nav1{
+    background-color: #f08919;
+    border: #f6b011;
+    color: white;
+    font-weight: normal;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 40px;
+}
+.center_btn{
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+
+
+/*2 section/*/
+.bg_2{
+    margin: 6% 0 6% 0;
+}
+
+/*2 section*/
+
+
+/*3 section/*/
+.bg_2_margin{
+    margin: 6% 0 6% 0;
+    width: 100%;
+    float: left;
+}
+
+/*3 section*/
+
+
+
+
+
+/*==========  Mobile First Method  ==========*/
+/* Large Devices, Wide Screens */
+@media only screen and (max-width:1200px){
+
+}
+/* Large Devices, Wide Screens/ */
+
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px){
+
+}
+/* Medium Devices, Desktops/ */
+
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px){
+
+}
+
+/* Small Devices, Tablets/ */
+
+
+/* Extra Small Devices */
+@media only screen and (max-width : 767px){
+.navbar-toggle{
+    border: 1px solid #fff;
+}
+.navbar-toggle .icon-bar{
+    border: 1px solid #fff;
+}
+
+}
+/* Extra Small Devices/ */
+
+
+/*Phones */
+@media only screen and (max-width : 575px){
+.navbar-toggle{
+    border: 1px solid #000;
+}
+.navbar-toggle .icon-bar{
+    border: 1px solid #000;
+}
+
+}
+/* Phones/ */
+
+/*==========  Mobile First Method  ==========*/
