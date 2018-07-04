@@ -1,17 +1,29 @@
-# eXMR Monero (Official Repository of www.eXMR.io)
-### The New (ERC20) Monero on Ethereum blockchain
 ![Logo](https://github.com/eXMRcoin/e-XMR/blob/master/eXMR-master/eXMR_200X200.png?raw=true)
+# EXMR MONERO<sup>℠</sup>
+# Project-GetCryptoPayments.org®
+➥A project based on Merchants tools: payment gateway, multi-coins wallet and point of sales, will make EXMR increase its value.<br> 
+➥A large number of stores and online businesses, will be able to receive payments in our EXMR and other cryptocurrencies.<br>
+➥GetCryptoPayments.net® by EXMR MONERO ℠  Will support more than 130 Cryptocurrencies on your platform and will be added by our voting system.<br>
+➥Offering plugins for all the popular webcarts used today: Prestashop; Oscommerce; Magento; woocommerce; WHMCS
 
-The official eXMR Monero will have a fixed supply of 15 million tokens, and it is divisible to 8 decimal places,and you’ll be able to send and receive them just like you can with any other ERC20 Token inside of Ethereum Blockchain.
+# ANDROID & iOS APP<br>
+➥Here you can send and receive your virtual coins.<br>
+➥You can receive instant payments in any Cryptocurrency you choose, using your wallet or a qr code. <br>
+➥Synchronization of your account to see the payments or deposits received.<br>
 
----
-eXMR Monero first was bounty and will be distributed to those interested. Pure community building token with 25% given away for tasks performed.
+# Developer Team<br>
+➥pnija<br>
+➥MarcosFermin<br>
+➥albertnanita<br>
+➥JulianIsrael<br>
+➥Krishna<br>
 
-The future of eXMR Monero:
-1) eXMR will have a payment gateway together with its own Wallet, this means that most online stores will be able to accept EXMR and other tokens and coins as a payment method, only by creating an widget; html code and sticking it on their website. We are in the process of development, our projection is to finalize the project in 8 months.
+# Milestone<br>
+⌘ Alpha Version this June 2018<br>
+⌘ Beta Version this July 2018<br>
+⌘ Official Launch this August 2018<br>
+⌘ First dividends this September 2018 <br>
 
-2) eXMR plans to partner with the following platforms Shapeshift, Changelly and online games, to integrate our platform,, etc ...
-3) By 2019 and EXMR will be self-sustainable and will grow on its own.
 
 
 
