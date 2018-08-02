@@ -28,6 +28,7 @@ Our GetCryptoPayments repository is private for security to see our project go t
 ✦ Voting system to add coins per reach 70,000 points.<br> 
 ✦ From 1 to 5 wallets in operation.<br> 
 ⌘ Beta Version this August 2018<br>
+ 🍀 Features: <br>
 ✦ The function of add store profiles. <br>
 ✦ Merchant tools From 1 to 5 coins to receive online payments.<br>
 ✦ Swap between those 1-5 coins & more testnet functions.<br>
