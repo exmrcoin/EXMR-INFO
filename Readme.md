@@ -22,16 +22,14 @@ Our GetCryptoPayments repository is private for security to see our project go t
 
 # Milestone<br>
 
-⌘ Alpha Version July 2018 "Ongoing"<br>
+⌘ Alpha Version August 2018 "Ongoing"<br>
  🍀 Features: <br>
 ✦ Registration and log in with OTP system.<br>
 ✦ Voting system to add coins per reach 70,000 points.<br> 
 ✦ From 1 to 5 wallets in operation.<br> 
-⌘ Beta Version this August 2018<br>
- 🍀 Features: <br>
+⌘ Beta Version this September 2018<br>
 ✦ The function of add store profiles. <br>
 ✦ Merchant tools From 1 to 5 coins to receive online payments.<br>
 ✦ Swap between those 1-5 coins & more testnet functions.<br>
-⌘ Official Launch this September 2018<br>
+⌘ Official Launch this October 2018<br>
 ⌘ First dividends December 2018 <br>
-
