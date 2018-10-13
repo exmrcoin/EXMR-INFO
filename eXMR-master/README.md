@@ -28,7 +28,7 @@
 ✦ The function of add store profiles. <br>
 ✦ Merchant tools From 1 to 5 coins to receive online payments.<br>
 ✦ Swap between those 1-5 coins & more testnet functions.<br>
-⌘ Official Launch this October 2018<br>
+⌘ Official Launch this December 2018<br>
 ⌘ First dividends December 2018 <br>
 
 
