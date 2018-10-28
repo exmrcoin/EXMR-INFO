@@ -1,4 +1,4 @@
-![Logo](https://github.com/eXMRcoin/e-XMR/blob/master/eXMR-master/eXMR_200X200.png?raw=true)
+![Logo](https://github.com/eXMRcoin/Ethereum-Monero/blob/master/eXMR-master/logo1.png?raw=true)
 # ETHEREUM MONERO (EXMR) 
 Our repository is private for security.. 
 # Project visit GetCryptoPayments.org®
