@@ -1,10 +1,10 @@
 ![Logo](https://github.com/eXMRcoin/Ethereum-Monero/blob/master/eXMR-master/logo1.png?raw=true)
-# ETHEREUM MONERO (EXMR) 
+# EXMR 
 Our repository is private for security.. 
 # Project visit GetCryptoPayments.org®
 ➥A project based on Merchants tools: payment gateway, multi-coins wallet and point of sales, will make EXMR increase its value.<br> 
 ➥A large number of stores and online businesses, will be able to receive payments in our EXMR and other cryptocurrencies.<br>
-➥GetCryptoPayments.org® by ETHEREUM MONERO [EXMR]  Will support more than 130 Cryptocurrencies on your platform and will be added by our voting system.<br>
+➥GetCryptoPayments.org® by EXMR  Will support more than 130 Cryptocurrencies on your platform and will be added by our voting system.<br>
 ➥Offering plugins for all the popular webcarts used today: Prestashop; Oscommerce; Magento; woocommerce; WHMCS
 
 # ANDROID & iOS APP<br>
@@ -30,7 +30,7 @@ Our repository is private for security..
 ✦ Merchant tools From 1 to 5 coins to receive online payments.<br>
 ✦ Swap between those 1-5 coins & more testnet functions.<br>
 ⌘ Official Launch this December 2018<br>
-⌘ First dividends December 2018 <br>
+⌘ First bonus December 2018 <br>
 
 
 
