@@ -16,7 +16,8 @@ Our repository is private for security..
 ➥pnija<br>
 ➥albertnanita<br>
 ➥JulianIsrael<br>
-➥Krishna<br>
+➥anand230999<br>
+➥vipinmohan22<br>
 
 # Milestone<br>
 ⌘ Alpha Version August 2018 "Ongoing"<br>
