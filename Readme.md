@@ -2,7 +2,7 @@
 # EXMR 
 Our repository is private for security.. 
 # Project visit GetCryptoPayments.org®
-➥A project based on Merchants tools: payment gateway, multi-coins wallet and point of sales, will make EXMR increase its value.<br> 
+➥A project based on Merchants tools: payment gateway, multi-coins wallet, fiat services, swap coins,  and point of sales, will make EXMR increase its value.<br> 
 ➥A large number of stores and online businesses, will be able to receive payments in our EXMR and other cryptocurrencies.<br>
 ➥GetCryptoPayments.org® by EXMR  Will support more than 130 Cryptocurrencies on your platform and will be added by our voting system.<br>
 ➥Offering plugins for all the popular webcarts used today: Prestashop; Oscommerce; Magento; woocommerce; WHMCS
@@ -15,19 +15,29 @@ Our repository is private for security..
 # Developer Team<br>
 ➥pnija<br>
 ➥albertnanita<br>
-➥JulianIsrael<br>
 ➥anand230999<br>
 ➥vipinmohan22<br>
 
 # Milestone<br>
-⌘ Alpha Version August 2018 "Ongoing"<br>
- 🍀 Features: <br>
-✦ Registration and log in with OTP system.<br>
-✦ Voting system to add coins per reach 70,000 points.<br> 
-✦ From 1 to 5 wallets in operation.<br> 
-⌘ Beta Version this September 2018<br>
-✦ The function of add store profiles. <br>
-✦ Merchant tools From 1 to 5 coins to receive online payments.<br>
-✦ Swap between those 1-5 coins & more testnet functions.<br>
+⌘ Alpha Version July 2018<br>
+⌘ Beta Version September 2018<br>
 ⌘ Official Launch this December 2018<br>
-⌘ First bonus December 2018 <br>
+🍀 Features: <br>
+✦ Swap between coins<br>
+✦ Store profiles<br>
+✦ Voting system<br>
+✦ Fiat Services<br>
+✦ Merchant Tools<br>
+✦ Pay by Name<br>
+✦ Multi Wallet<br>
+✦ Payment Gateway<br>
+✦ Vault Wallet<br> 
+✦ Voting system<br>
+✦ Point of Sales (POS)<br>
+✦ Airdrop Sevices<br>
+✦ ICO Sevices<br>
+✦ Exchange Api<br>
+& More..
+
+
+
