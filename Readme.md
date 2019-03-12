@@ -22,9 +22,10 @@ Our repository is private for security..
 ⌘ Alpha Version July 2018<br>
 ⌘ Beta Version September 2018<br>
 ⌘ Official Launch this December 2018<br>
+⌘ New UI-UX March 2019<br>
 
 🍀 Features: <br>
-✦ Swap between coins<br>
+✦ Swap between coins or tokens<br>
 ✦ Store profiles<br>
 ✦ Voting system<br>
 ✦ Fiat Services<br>
