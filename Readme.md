@@ -4,7 +4,7 @@ Our repository is private for security..
 # Project visit GetCryptoPayments.org®
 ➥A project based on Merchants tools: payment gateway, multi-coins wallet, fiat services, swap coins,  and point of sales, will make EXMR increase its value.<br> 
 ➥A large number of stores and online businesses, will be able to receive payments in our EXMR and other cryptocurrencies.<br>
-➥GetCryptoPayments.org® by EXMR  Will support more than 130 Cryptocurrencies on your platform and will be added by our voting system.<br>
+➥GetCryptoPayments.org® by EXMR  Will support more than 150 Cryptocurrencies on your platform and will be added by our voting system.<br>
 ➥Offering plugins for all the popular webcarts used today: Prestashop; Oscommerce; Magento; woocommerce; WHMCS
 
 # ANDROID & iOS APP<br>
@@ -22,6 +22,7 @@ Our repository is private for security..
 ⌘ Alpha Version July 2018<br>
 ⌘ Beta Version September 2018<br>
 ⌘ Official Launch this December 2018<br>
+
 🍀 Features: <br>
 ✦ Swap between coins<br>
 ✦ Store profiles<br>
