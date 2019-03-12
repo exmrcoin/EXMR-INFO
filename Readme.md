@@ -1,7 +1,7 @@
 ![Logo](https://github.com/eXMRcoin/Ethereum-Monero/blob/master/eXMR-master/logo1.png?raw=true)
 # EXMR 
-Our repository is private for security.. 
-# Project visit GetCryptoPayments.org®
+# Our repository is private for security.. 
+Our Project: please visit <a href="https://getcryptopayments.org">GetCryptoPayments.org®</a> <br>
 ➥A project based on Merchants tools: payment gateway, multi-coins wallet, fiat services, swap coins,  and point of sales, will make EXMR increase its value.<br> 
 ➥A large number of stores and online businesses, will be able to receive payments in our EXMR and other cryptocurrencies.<br>
 ➥GetCryptoPayments.org® by EXMR  Will support more than 150 Cryptocurrencies on your platform and will be added by our voting system.<br>
