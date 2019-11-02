@@ -7,7 +7,7 @@ We are motivating blockchain developers to integrate their Dapp's EXMR FDN, and 
 New exchanges and Dapp's coming this 2020!!
 
 About our current project, we have the repository in private for security.. 
-# You can visit here GetCryptoPayments.com®
+# You can visit here https://GetCryptoPayments.com®
 
 # ABOUT GETCRYPTOPAYMENTS.COM
 ➥A project based on Merchants tools: payment gateway, multi-coins wallet and point of sales, will make EXMR FDN increase its value.<br> 
