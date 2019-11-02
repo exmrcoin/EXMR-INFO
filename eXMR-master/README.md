@@ -1,5 +1,5 @@
 ![Logo](https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/backclear.png?raw=true)
-# EXMR 
+# EXMR FDN.
 Our repository is private for security.. 
 # Project visit GetCryptoPayments.org®
 ➥A project based on Merchants tools: payment gateway, multi-coins wallet and point of sales, will make EXMR increase its value.<br> 
@@ -30,7 +30,6 @@ Our repository is private for security..
 ✦ Merchant tools From 1 to 5 coins to receive online payments.<br>
 ✦ Swap between those 1-5 coins & more testnet functions.<br>
 ⌘ Official Launch this December 2018<br>
-⌘ First bonus December 2018 <br>
 
 
 
