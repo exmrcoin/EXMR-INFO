@@ -1,35 +1,39 @@
 ![Logo](https://github.com/eXMRcoin/EXMR-INFO/blob/master/eXMR-master/backclear.png?raw=true)
-# EXMR FDN.
-Our repository is private for security.. 
-# Project visit GetCryptoPayments.com®
-➥A project based on Merchants tools: payment gateway, multi-coins wallet and point of sales, will make EXMR increase its value.<br> 
-➥A large number of stores and online businesses, will be able to receive payments in our EXMR and other cryptocurrencies.<br>
-➥GetCryptoPayments.com® by EXMR  Will support more than 130 Cryptocurrencies on your platform and will be added by our voting system.<br>
-➥Offering plugins for all the popular webcarts used today: Prestashop; Oscommerce; Magento; woocommerce; WHMCS
+# EXMR FDN. (EXMR FOUNDATION)
 
-# ANDROID & iOS APP<br>
-➥Here you can send and receive your virtual coins.<br>
-➥You can receive instant payments in any Cryptocurrency you choose, using your wallet or a qr code. <br>
-➥Synchronization of your account to see the payments or deposits received.<br>
+We are motivating blockchain developers to integrate their Dapp's EXMR FDN, and thus receive Bounty rewards, additionally you can start a custom Dapp's for EXMR FDN. and submit it to this repository of EXMR FOUNDATION, so that all developers can integrate into the work and thus all win rewards.
 
-# Developer Team<br>
+# People can now start staking their EXMR FDN. here: https://dapp.exmr.io
+New exchanges and Dapp's coming this 2020!!
+
+About our current project, we have the repository in private for security.. 
+# You can visit here GetCryptoPayments.com®
+
+# ABOUT GETCRYPTOPAYMENTS.COM
+➥A project based on Merchants tools: payment gateway, multi-coins wallet and point of sales, will make EXMR FDN increase its value.<br> 
+➥A large number of stores and online businesses, will be able to receive payments in our EXMR FDN and other cryptocurrencies.<br>
+➥GetCryptoPayments.com® by EXMR FDN. Will support more than 130 to 2000 Cryptocurrencies on your platform and will be added by our voting system or payment fee.<br>
+➥Offering integration plugins for all the popular webcarts used today: Prestashop; Oscommerce; Magento; woocommerce; WHMCS. etc
+
+# Developer Team for this project<br>
 ➥pnija<br>
-➥MarcosFermin<br>
 ➥albertnanita<br>
-➥JulianIsrael<br>
 ➥Krishna<br>
+➥Vipin Mohan<br>
 
 # Milestone<br>
-⌘ Alpha Version August 2018 "Ongoing"<br>
+⌘ Beta Version August 2018 "Ongoing"<br>
  🍀 Features: <br>
-✦ Registration and log in with OTP system.<br>
+✦ Fiat and coin services.<br> 
+✦ Vault Wallet.<br> 
 ✦ Voting system to add coins per reach 70,000 points.<br> 
-✦ From 1 to 5 wallets in operation.<br> 
+✦ From 1 to 100 token wallets services in operation.<br> 
 ⌘ Beta Version this September 2018<br>
 ✦ The function of add store profiles. <br>
-✦ Merchant tools From 1 to 5 coins to receive online payments.<br>
-✦ Swap between those 1-5 coins & more testnet functions.<br>
-⌘ Official Launch this December 2018<br>
+✦ Merchant tools From 1 to 10 coins to receive online payments.<br>
+✦ Swap between those 10-15 coins & more.<br>
+⌘ Exchange + API  and IEO and Staking services for all coins developers
+⌘ Launch this December 2020<br>
 
 
 
