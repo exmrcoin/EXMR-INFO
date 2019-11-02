@@ -33,7 +33,25 @@ About our current project, we have the repository in private for security..
 ✦ Merchant tools From 1 to 10 coins to receive online payments.<br>
 ✦ Swap between those 10-15 coins & more.<br>
 ⌘ Exchange + API  and IEO and Staking services for all coins developers
+⌘ New UI-UX May 2019<br>
 ⌘ Launch this December 2020<br>
+
+🍀 Features: <br>
+✦ Swap between coins or tokens<br>
+✦ Store profiles<br>
+✦ Voting system<br>
+✦ Fiat Services<br>
+✦ Merchant Tools<br>
+✦ Pay by Name<br>
+✦ Multi Wallet<br>
+✦ Payment Gateway<br>
+✦ Vault Wallet<br> 
+✦ Voting system<br>
+✦ Point of Sales (POS)<br>
+✦ Airdrop Sevices<br>
+✦ ICO Sevices<br>
+✦ Exchange Api<br>
+& More..
 
 
 
