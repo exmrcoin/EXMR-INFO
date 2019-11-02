@@ -23,7 +23,7 @@ About our current project, we have the repository in private for security..
 
 # Milestone<br>
 ⌘ Beta Version August 2018 "Ongoing"<br>
- 🍀 Features: <br>
+ 🍀 Services: <br>
 ✦ Fiat and coin services.<br> 
 ✦ Vault Wallet.<br> 
 ✦ Voting system to add coins per reach 70,000 points.<br> 
