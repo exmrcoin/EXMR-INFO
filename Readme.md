@@ -65,19 +65,18 @@ You can visit here https://GetCryptoPayments.com® <br>
 ➥Vipin Mohan<br>
 
 # Milestones<br>
-⌘ Beta Version August 2018 "Ongoing"<br>
+⌘ Alpha Version May 2019 <br>
  🍀 Services: <br>
 ✦ Fiat and coin services.<br> 
 ✦ Vault Wallet.<br> 
 ✦ Voting system to add coins per reach 70,000 points.<br> 
 ✦ From 1 to 100 token wallets services in operation.<br> 
-⌘ Beta Version this September 2018<br>
+⌘ New UI-UX August 2019 <br>
+⌘ Beta Version this November 2019 "Ongoing"<br>
 ✦ The function of add store profiles. <br>
 ✦ Merchant tools From 1 to 10 coins to receive online payments.<br>
 ✦ Swap between those 10-15 coins & more.<br>
 ⌘ Exchange + API  and IEO and Staking services for all coins developers
-⌘ New UI-UX May 2019<br>
-⌘ Launch this December 2020<br>
 
 🍀 Features: <br>
 ✦ Swap between coins or tokens<br>
